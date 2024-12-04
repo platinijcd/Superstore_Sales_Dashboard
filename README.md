@@ -4,7 +4,7 @@ A tableau dashboard about the sales performance of SuperStore
 ## About this project
 
 - Link to the dashboard :
-- https://public.tableau.com/views/SalesDashboard_17267020856120/Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+  https://public.tableau.com/views/SalesDashboard_17267020856120/Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 - DataSource :
   https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting/data
