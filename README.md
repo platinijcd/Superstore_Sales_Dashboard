@@ -1,7 +1,5 @@
 # Superstore_Sales_Dashboard
-A tableau dashboard about the sales performance of SuperStore
 
---------------------------------------------------
 ## About this project
 🇫🇷
 
